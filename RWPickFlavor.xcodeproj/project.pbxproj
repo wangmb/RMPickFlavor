@@ -7,11 +7,13 @@
 	objects = {
 
 /* Begin PBXBuildFile section */
+		4214921C1C0DE6FA00EAF169 /* LICENSE in Resources */ = {isa = PBXBuildFile; fileRef = 4214921B1C0DE6FA00EAF169 /* LICENSE */; };
 		42EFDC3C1C0DD2DC00555C0B /* RWPickFlavor.h in Headers */ = {isa = PBXBuildFile; fileRef = 42EFDC3B1C0DD2DC00555C0B /* RWPickFlavor.h */; settings = {ATTRIBUTES = (Public, ); }; };
 		8C61E08C129A0616D4DC80B6 /* Pods_RWPickFlavor.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = BA07CA74F60C97D8B455EC56 /* Pods_RWPickFlavor.framework */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
+		4214921B1C0DE6FA00EAF169 /* LICENSE */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text; path = LICENSE; sourceTree = "<group>"; };
 		42EFDC381C0DD2DC00555C0B /* RWPickFlavor.framework */ = {isa = PBXFileReference; explicitFileType = wrapper.framework; includeInIndex = 0; path = RWPickFlavor.framework; sourceTree = BUILT_PRODUCTS_DIR; };
 		42EFDC3B1C0DD2DC00555C0B /* RWPickFlavor.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = RWPickFlavor.h; sourceTree = "<group>"; };
 		42EFDC3D1C0DD2DD00555C0B /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
@@ -43,6 +45,7 @@
 		42EFDC2E1C0DD2DC00555C0B = {
 			isa = PBXGroup;
 			children = (
+				4214921B1C0DE6FA00EAF169 /* LICENSE */,
 				42EFDC3A1C0DD2DC00555C0B /* RWPickFlavor */,
 				42EFDC391C0DD2DC00555C0B /* Products */,
 				C14DCCB843BD4F52EC253BB9 /* Pods */,
@@ -146,6 +149,7 @@
 			isa = PBXResourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				4214921C1C0DE6FA00EAF169 /* LICENSE in Resources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
