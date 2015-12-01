@@ -1,0 +1,18 @@
+version: "Apple Swift version 2.1 (swiftlang-700.1.101.6 clang-700.1.76)"
+options: "21ceaa54e2fdcdf6de4a69263d46d91b"
+build_time: [502291661, 860051000]
+inputs:
+  "/Users/wangmingbo/Documents/Libraries/RWPickFlavor/Pods/Alamofire/Source/ParameterEncoding.swift": [502290731, 0]
+  "/Users/wangmingbo/Documents/Libraries/RWPickFlavor/Pods/Alamofire/Source/Request.swift": [502290731, 0]
+  "/Users/wangmingbo/Documents/Libraries/RWPickFlavor/Pods/Alamofire/Source/Response.swift": [502290731, 0]
+  "/Users/wangmingbo/Documents/Libraries/RWPickFlavor/Pods/Alamofire/Source/Alamofire.swift": [502290731, 0]
+  "/Users/wangmingbo/Documents/Libraries/RWPickFlavor/Pods/Alamofire/Source/Validation.swift": [502290731, 0]
+  "/Users/wangmingbo/Documents/Libraries/RWPickFlavor/Pods/Alamofire/Source/Manager.swift": [502290731, 0]
+  "/Users/wangmingbo/Documents/Libraries/RWPickFlavor/Pods/Alamofire/Source/ServerTrustPolicy.swift": [502290731, 0]
+  "/Users/wangmingbo/Documents/Libraries/RWPickFlavor/Pods/Alamofire/Source/Stream.swift": [502290731, 0]
+  "/Users/wangmingbo/Documents/Libraries/RWPickFlavor/Pods/Alamofire/Source/Error.swift": [502290731, 0]
+  "/Users/wangmingbo/Documents/Libraries/RWPickFlavor/Pods/Alamofire/Source/Download.swift": [502290731, 0]
+  "/Users/wangmingbo/Documents/Libraries/RWPickFlavor/Pods/Alamofire/Source/Upload.swift": [502290731, 0]
+  "/Users/wangmingbo/Documents/Libraries/RWPickFlavor/Pods/Alamofire/Source/ResponseSerialization.swift": [502290731, 0]
+  "/Users/wangmingbo/Documents/Libraries/RWPickFlavor/Pods/Alamofire/Source/Result.swift": [502290731, 0]
+  "/Users/wangmingbo/Documents/Libraries/RWPickFlavor/Pods/Alamofire/Source/MultipartFormData.swift": [502290731, 0]
