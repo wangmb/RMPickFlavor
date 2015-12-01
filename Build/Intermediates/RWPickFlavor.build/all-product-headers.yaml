@@ -1,0 +1,33 @@
+{
+  'version': 0,
+  'case-sensitive': 'false',
+  'roots': [
+    {
+      'type': 'directory',
+      'name': "/Users/wangmingbo/Documents/Libraries/RWPickFlavor/Build/Products/Debug-iphonesimulator/RWPickFlavor.framework/Headers",
+      'contents': [
+        {
+          'type': 'file',
+          'name': "RWPickFlavor-Swift.h",
+          'external-contents': "/Users/wangmingbo/Documents/Libraries/RWPickFlavor/Build/Products/Debug-iphonesimulator/RWPickFlavor.framework/Headers/RWPickFlavor-Swift.h"
+        },
+        {
+          'type': 'file',
+          'name': "RWPickFlavor.h",
+          'external-contents': "/Users/wangmingbo/Documents/Libraries/RWPickFlavor/RWPickFlavor/RWPickFlavor.h"
+        }
+      ]
+    },
+    {
+      'type': 'directory',
+      'name': "/Users/wangmingbo/Documents/Libraries/RWPickFlavor/Build/Products/Debug-iphonesimulator/RWPickFlavor.framework/Modules",
+      'contents': [
+        {
+          'type': 'file',
+          'name': "module.modulemap",
+          'external-contents': "/Users/wangmingbo/Documents/Libraries/RWPickFlavor/Build/Intermediates/RWPickFlavor.build/Debug-iphonesimulator/RWPickFlavor.build/module.modulemap"
+        }
+      ]
+    }
+  ]
+}
